@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <name>sagar</name>
+    <id>22mca036</id>
+    <branch>Computer Science</branch>
+    <cgpa>8.24</cgpa>
+  </student>
+  <student>
+    <name>Aakash</name>
+    <id>22mca023</id>
+    <branch>Mathematics</branch>
+    <cgpa>8.4</cgpa>
+  </student>
+  <student>
+    <name>Kishan</name>
+    <id>22mca027</id>
+    <branch>English</branch>
+    <cgpa>9.8</cgpa>
+  </student>
+  <student>
+    <name>shaurya</name>
+    <id>22mca026</id>
+    <branch>Computer application</branch>
+    <cgpa>8.89</cgpa>
+  </student>
+  <student>
+    <name>sujal</name>
+    <id>22mca035</id>
+    <branch>smart google</branch>
+    <cgpa>9.3</cgpa>
+  </student>
+  <student>
+    <name>kivant</name>
+    <id>22mca032</id>
+    <branch>English</branch>
+    <cgpa>9.6</cgpa>
+  </student>
+</students>
